@@ -10,13 +10,24 @@
   "author": "ariefdfaltah",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.3.1",
     "sequelize": "^6.31.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthh-workspace/skilvul-db-intro-3.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/arthh-workspace/skilvul-db-intro-3/issues"
+  },
+  "homepage": "https://github.com/arthh-workspace/skilvul-db-intro-3#readme"
 }
